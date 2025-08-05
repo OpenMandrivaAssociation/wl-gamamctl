@@ -22,6 +22,8 @@ BuildSystem:	meson
 BuildRequires: pkgconfig(gtk+-3.0)
 BuildRequires: pkgconfig(wlroots)
 BuildRequires: pkgconfig(wayland-scanner)
+BuildRequires: git
+
 %description
 %summary.
 
